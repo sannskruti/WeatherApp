@@ -16,4 +16,4 @@ Usage
 Enter a City: Type the name of the city you want to check in the search box.
 View Weather Details: Click the "Search" button to view the temperature, weather description, humidity, wind speed, and a relevant weather icon.
 Configuration
-To use the application, you need an API key from OpenWeatherMap. Replace the api_key variable in script.js with your API key:
+To use the application, you need an API key from OpenWeatherMap. Replace the api_key variable in script.js with your API key. For now its blank in the app for security. 
